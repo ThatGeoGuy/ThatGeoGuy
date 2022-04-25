@@ -4,6 +4,7 @@
 - My personal website is [www.thatgeoguy.ca](//www.thatgeoguy.ca)
 - I work in perception and robotics, specifically on sensor fusion and calibration
 - My current main languages are Rust, CHICKEN Scheme, and C++!
+- You may be interested in my [Gitlab profile](//gitlab.com/ThatGeoGuy) as well
 
 <!--
 **ThatGeoGuy/ThatGeoGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
